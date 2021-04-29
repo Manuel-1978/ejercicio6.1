@@ -1,0 +1,8 @@
+.completed{
+    background-color: #ddd !important;
+    color: #333;
+    text-decoration: line-through;
+}
+.completed span{
+    text-decoration: line-through;
+}
